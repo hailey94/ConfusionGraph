@@ -1,4 +1,4 @@
-""" collection of various helper functions for running ACE"""
+""" collection of various helper functions for running CG"""
 
 from multiprocessing import dummy as multiprocessing
 import sys
